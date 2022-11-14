@@ -1,0 +1,11 @@
+
+instalar selenium
+
+https://selenium-python.readthedocs.io/installation.html
+
+https://pypi.org/project/selenium/
+
+https://sites.google.com/chromium.org/driver/downloads?pli=1
+
+
+
